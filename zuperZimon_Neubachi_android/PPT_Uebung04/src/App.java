@@ -1,10 +1,12 @@
 public class App {
 
-
     public void thisIsANewMethod() {
 
-    }
+        for (int i = 0; i < 10; i++) {
 
+        }
+
+    }
 
     // ich finde git scheiße
 
