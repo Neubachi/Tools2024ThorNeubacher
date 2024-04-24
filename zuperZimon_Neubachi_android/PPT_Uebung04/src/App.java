@@ -1,10 +1,8 @@
 public class App {
 
-
     public void thisIsANewMethod() {
-
+        String Git = "scheiße";
     }
-
 
     // ich finde git scheiße
 
